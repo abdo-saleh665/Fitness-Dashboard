@@ -1,6 +1,6 @@
-#Shagani - Fitness Dashboard Prototype
+# Shagani - Fitness Dashboard Prototype
 
-##Description
+## Description
 This is a simple front-end prototype for the Shagani fitness app. It includes a login screen and a
 dashboard showing mock fitness data (workout, calories, progress, community).
 
